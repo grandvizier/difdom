@@ -1,0 +1,26 @@
+{
+  "name": "difdom",
+  "version": "0.0.1",
+  "author": "grandvizier <admin@thedreamingjeff.com>",
+  "description": "does a comparison check of html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grandvizier/difdom.git"
+  },
+  "keywords": [
+    "html",
+    "diff",
+    "compare"
+  ],
+  "dependencies": {
+    "colors": "~0.6.2",
+    "mongodb": "~1.3.23",
+    "should": "~3.1.2",
+    "async": "~0.2.10"
+  },
+  "devDependencies": {
+    "should": "~3.1.2",
+    "mocha": "~1.17.1",
+    "coffee-script": "*"
+  }
+}
